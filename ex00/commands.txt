@@ -1,0 +1,668 @@
+Last login: Tue Oct 11 21:17:08 on ttys000
+emmachemineau@MacBook-Air-de-Emma ~ % pwd
+/Users/emmachemineau
+emmachemineau@MacBook-Air-de-Emma ~ % cd desktop
+emmachemineau@MacBook-Air-de-Emma desktop % mkdir piscineshell
+emmachemineau@MacBook-Air-de-Emma desktop % cd piscineshell
+emmachemineau@MacBook-Air-de-Emma piscineshell % git clone https://github.com/emmachemineau/e_chemineau_piscine_shell
+Cloning into 'e_chemineau_piscine_shell'...
+warning: You appear to have cloned an empty repository.
+emmachemineau@MacBook-Air-de-Emma piscineshell % cd ex00  
+cd: no such file or directory: ex00
+emmachemineau@MacBook-Air-de-Emma piscineshell % cd desktop
+cd: no such file or directory: desktop
+emmachemineau@MacBook-Air-de-Emma piscineshell % pwd
+/Users/emmachemineau/desktop/piscineshell
+emmachemineau@MacBook-Air-de-Emma piscineshell % cd desktop
+cd: no such file or directory: desktop
+emmachemineau@MacBook-Air-de-Emma piscineshell % mkdir piscineshell2
+emmachemineau@MacBook-Air-de-Emma piscineshell % cd piscineshell2
+emmachemineau@MacBook-Air-de-Emma piscineshell2 % git clone https://github.com/emmachemineau/e_chemineau_piscine_shell2
+Cloning into 'e_chemineau_piscine_shell2'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+emmachemineau@MacBook-Air-de-Emma piscineshell2 % cd ex00
+cd: no such file or directory: ex00
+emmachemineau@MacBook-Air-de-Emma piscineshell2 % mkdir ex00
+emmachemineau@MacBook-Air-de-Emma piscineshell2 % cd ex00
+emmachemineau@MacBook-Air-de-Emma ex00 % mkdir cover
+emmachemineau@MacBook-Air-de-Emma ex00 % cd cover
+emmachemineau@MacBook-Air-de-Emma cover % ls    
+emmachemineau@MacBook-Air-de-Emma cover % ls covers
+ls: covers: No such file or directory
+emmachemineau@MacBook-Air-de-Emma cover % mkdir constructeurqs
+emmachemineau@MacBook-Air-de-Emma cover % mkdir constructeurs
+emmachemineau@MacBook-Air-de-Emma cover % cd constructeurs
+emmachemineau@MacBook-Air-de-Emma constructeurs % ls                 
+emmachemineau@MacBook-Air-de-Emma constructeurs % 
+emmachemineau@MacBook-Air-de-Emma constructeurs % clear
+
+emmachemineau@MacBook-Air-de-Emma constructeurs % cd piscineshell2
+cd: no such file or directory: piscineshell2
+emmachemineau@MacBook-Air-de-Emma constructeurs % cd e_chemineau_piscine_shell2
+cd: no such file or directory: e_chemineau_piscine_shell2
+emmachemineau@MacBook-Air-de-Emma constructeurs % ls
+emmachemineau@MacBook-Air-de-Emma constructeurs % clear 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+emmachemineau@MacBook-Air-de-Emma constructeurs % mkdir piscine_shell_emma
+emmachemineau@MacBook-Air-de-Emma constructeurs % git clone https://github.com/emmachemineau/e_chemineau_piscine_shell2.git
+Cloning into 'e_chemineau_piscine_shell2'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+emmachemineau@MacBook-Air-de-Emma constructeurs % mkdir cover
+emmachemineau@MacBook-Air-de-Emma constructeurs % mkdir e_chemineau_piscine_shell2
+mkdir: e_chemineau_piscine_shell2: File exists
+emmachemineau@MacBook-Air-de-Emma constructeurs % mkdir cover
+mkdir: cover: File exists
+emmachemineau@MacBook-Air-de-Emma constructeurs % cd cover
+emmachemineau@MacBook-Air-de-Emma cover % cd constructeurs
+cd: no such file or directory: constructeurs
+emmachemineau@MacBook-Air-de-Emma cover % clear
+
+
+
+
+
+
+emmachemineau@MacBook-Air-de-Emma cover % cd constructeurs
+cd: no such file or directory: constructeurs
+emmachemineau@MacBook-Air-de-Emma cover % cd piscineshell
+cd: no such file or directory: piscineshell
+emmachemineau@MacBook-Air-de-Emma cover % cd piscineshell2
+cd: no such file or directory: piscineshell2
+emmachemineau@MacBook-Air-de-Emma cover % cd e_chemineau_piscine_shell2
+cd: no such file or directory: e_chemineau_piscine_shell2
+emmachemineau@MacBook-Air-de-Emma cover % clear 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+emmachemineau@MacBook-Air-de-Emma cover % git clone e_chemineau_piscine_shell2
+fatal: repository 'e_chemineau_piscine_shell2' does not exist
+emmachemineau@MacBook-Air-de-Emma cover % git clone https://github.com/emmachemineau/e_chemineau_piscine_shell2.git
+fatal: could not create work tree dir 'e_chemineau_piscine_shell2': No such file or directory
+emmachemineau@MacBook-Air-de-Emma cover % ls
+ls: .: Operation not permitted
+emmachemineau@MacBook-Air-de-Emma cover % cd ..
+emmachemineau@MacBook-Air-de-Emma .Trash % cd ..
+emmachemineau@MacBook-Air-de-Emma ~ % ls
+Applications		Library			Pictures
+Desktop			Movies			Public
+Documents		Music
+Downloads		OneDrive - Groupe ESSCA
+emmachemineau@MacBook-Air-de-Emma ~ % cd Desktop 
+emmachemineau@MacBook-Air-de-Emma Desktop % ls
+CV 2023.pdf
+Capture d’écran 2022-10-16 à 18.10.03.png
+Capture d’écran 2022-10-21 à 10.29.59.png
+IntroToMediaQueries-main
+Rendu
+Visual Studio Code.app
+piscine
+emmachemineau@MacBook-Air-de-Emma Desktop % cd piscine 
+emmachemineau@MacBook-Air-de-Emma piscine % ls
+Piscine00
+emmachemineau@MacBook-Air-de-Emma piscine % 
+emmachemineau@MacBook-Air-de-Emma piscine % clear
+
+emmachemineau@MacBook-Air-de-Emma piscine % cd ..
+emmachemineau@MacBook-Air-de-Emma Desktop % ls
+CV 2023.pdf
+Capture d’écran 2022-10-16 à 18.10.03.png
+Capture d’écran 2022-10-21 à 10.29.59.png
+IntroToMediaQueries-main
+Rendu
+Visual Studio Code.app
+piscine
+emmachemineau@MacBook-Air-de-Emma Desktop % clear 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+emmachemineau@MacBook-Air-de-Emma Desktop % ls
+CV 2023.pdf					Capture d’écran 2022-10-21 à 10.29.59.png	Rendu						piscine
+Capture d’écran 2022-10-16 à 18.10.03.png	IntroToMediaQueries-main			Visual Studio Code.app
+emmachemineau@MacBook-Air-de-Emma Desktop % cd piscine 
+emmachemineau@MacBook-Air-de-Emma piscine % ls
+Piscine00
+emmachemineau@MacBook-Air-de-Emma piscine % mkdir piscine_shell
+emmachemineau@MacBook-Air-de-Emma piscine % cd piscine_shell 
+emmachemineau@MacBook-Air-de-Emma piscine_shell % git clone https://github.com/emmachemineau/e_chemineau_piscine_shell2.git
+Cloning into 'e_chemineau_piscine_shell2'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+emmachemineau@MacBook-Air-de-Emma piscine_shell % ls 
+e_chemineau_piscine_shell2
+emmachemineau@MacBook-Air-de-Emma piscine_shell % cd e_chemineau_piscine_shell2 
+emmachemineau@MacBook-Air-de-Emma e_chemineau_piscine_shell2 % ls
+README.md
+emmachemineau@MacBook-Air-de-Emma e_chemineau_piscine_shell2 % mkdir ex00
+emmachemineau@MacBook-Air-de-Emma e_chemineau_piscine_shell2 % cd ..
+emmachemineau@MacBook-Air-de-Emma piscine_shell % ls
+e_chemineau_piscine_shell2
+emmachemineau@MacBook-Air-de-Emma piscine_shell % cd ..
+emmachemineau@MacBook-Air-de-Emma piscine % ls
+Piscine00	piscine_shell
+emmachemineau@MacBook-Air-de-Emma piscine % cd ..
+emmachemineau@MacBook-Air-de-Emma Desktop % ls
+CV 2023.pdf					Capture d’écran 2022-10-21 à 10.29.59.png	Rendu						piscine
+Capture d’écran 2022-10-16 à 18.10.03.png	IntroToMediaQueries-main			Visual Studio Code.app
+emmachemineau@MacBook-Air-de-Emma Desktop % cd ..
+emmachemineau@MacBook-Air-de-Emma ~ % ls
+Applications		Documents		Library			Music			Pictures
+Desktop			Downloads		Movies			OneDrive - Groupe ESSCA	Public
+emmachemineau@MacBook-Air-de-Emma ~ % cd Downloads 
+emmachemineau@MacBook-Air-de-Emma Downloads % ls
+2023-24 DOSSIER DE CANDIDATURE ISCOM.pdf						LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO-4.pdf
+Black and Grey Software Engineer Cover Letter.pdf					LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO.pdf
+Brochure ISCOM 2023 (1).pdf								Les grands auteurs aux frontières du management .pdf
+Brochure ISCOM 2023.pdf									ME05-00A-B P1.pptx
+CV NB.pdf										ME05-00A-B P2.pptx
+Candidature spontanée.pdf								Microsoft_Office_16.64.22081401_BusinessPro_Installer.pkg
+Diapo-Cours-Intro-Questionnaire.pptx							Non confirmé 237649.crdownload
+DossierPrelevementTcl_Emma_CHEMINEAU-2.pdf						PARCOURS SCOLAIRE.pdf
+DossierPrelevementTcl_Emma_CHEMINEAU.pdf						RIB_M_OU_MME_M_CHEMINEAU_OU_ML_NIAUX_9383.pdf
+ESCCA_22-23_Transformation Digitale_SÃ©ance 2_Piloter v1.pdf				SpotifySetup.exe
+HTML_CSS - 1 - HTML _ Balises textuelles.pptx						Syllabus_programmation_approfondie.docx
+IMG_1848.PNG										Transformation digitale de la ville de Lyon (1).pdf
+IMG_1849.HEIC										Transformation digitale de la ville de Lyon.pdf
+IMG_1871.JPG										googlechrome.dmg
+IMG_1909.jpg										note 2.notesairdropdocument
+IMG_1931.HEIC										note.notesairdropdocument
+IntroToMediaQueries-main (1).zip							recapitulatif-2.pdf
+IntroToMediaQueries-main.zip								recapitulatif-3.pdf
+JavaScript_101.pdf									recapitulatif-4.pdf
+JavaScript_101_part1.pdf								recapitulatif.pdf
+LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO-2.pdf	~$llabus_programmation_approfondie (1).docx
+LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO-3.pdf
+emmachemineau@MacBook-Air-de-Emma Downloads % ls
+2023-24 DOSSIER DE CANDIDATURE ISCOM.pdf						LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO-4.pdf
+Black and Grey Software Engineer Cover Letter.pdf					LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO.pdf
+Brochure ISCOM 2023 (1).pdf								Les grands auteurs aux frontières du management .pdf
+Brochure ISCOM 2023.pdf									ME05-00A-B P1.pptx
+CV NB.pdf										ME05-00A-B P2.pptx
+Candidature spontanée.pdf								Microsoft_Office_16.64.22081401_BusinessPro_Installer.pkg
+Diapo-Cours-Intro-Questionnaire.pptx							PARCOURS SCOLAIRE.pdf
+DossierPrelevementTcl_Emma_CHEMINEAU-2.pdf						RIB_M_OU_MME_M_CHEMINEAU_OU_ML_NIAUX_9383.pdf
+DossierPrelevementTcl_Emma_CHEMINEAU.pdf						SpotifySetup.exe
+ESCCA_22-23_Transformation Digitale_SÃ©ance 2_Piloter v1.pdf				Syllabus_programmation_approfondie.docx
+HTML_CSS - 1 - HTML _ Balises textuelles.pptx						Transformation digitale de la ville de Lyon (1).pdf
+IMG_1848.PNG										Transformation digitale de la ville de Lyon.pdf
+IMG_1849.HEIC										covers
+IMG_1871.JPG										covers-20221116T103054Z-001.zip
+IMG_1909.jpg										googlechrome.dmg
+IMG_1931.HEIC										note 2.notesairdropdocument
+IntroToMediaQueries-main (1).zip							note.notesairdropdocument
+IntroToMediaQueries-main.zip								recapitulatif-2.pdf
+JavaScript_101.pdf									recapitulatif-3.pdf
+JavaScript_101_part1.pdf								recapitulatif-4.pdf
+LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO-2.pdf	recapitulatif.pdf
+LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO-3.pdf	~$llabus_programmation_approfondie (1).docx
+emmachemineau@MacBook-Air-de-Emma Downloads % clear
+
+emmachemineau@MacBook-Air-de-Emma Downloads % mv covers ../        
+emmachemineau@MacBook-Air-de-Emma Downloads % ls
+2023-24 DOSSIER DE CANDIDATURE ISCOM.pdf						LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO-4.pdf
+Black and Grey Software Engineer Cover Letter.pdf					LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO.pdf
+Brochure ISCOM 2023 (1).pdf								Les grands auteurs aux frontières du management .pdf
+Brochure ISCOM 2023.pdf									ME05-00A-B P1.pptx
+CV NB.pdf										ME05-00A-B P2.pptx
+Candidature spontanée.pdf								Microsoft_Office_16.64.22081401_BusinessPro_Installer.pkg
+Diapo-Cours-Intro-Questionnaire.pptx							PARCOURS SCOLAIRE.pdf
+DossierPrelevementTcl_Emma_CHEMINEAU-2.pdf						RIB_M_OU_MME_M_CHEMINEAU_OU_ML_NIAUX_9383.pdf
+DossierPrelevementTcl_Emma_CHEMINEAU.pdf						SpotifySetup.exe
+ESCCA_22-23_Transformation Digitale_SÃ©ance 2_Piloter v1.pdf				Syllabus_programmation_approfondie.docx
+HTML_CSS - 1 - HTML _ Balises textuelles.pptx						Transformation digitale de la ville de Lyon (1).pdf
+IMG_1848.PNG										Transformation digitale de la ville de Lyon.pdf
+IMG_1849.HEIC										covers-20221116T103054Z-001.zip
+IMG_1871.JPG										googlechrome.dmg
+IMG_1909.jpg										note 2.notesairdropdocument
+IMG_1931.HEIC										note.notesairdropdocument
+IntroToMediaQueries-main (1).zip							recapitulatif-2.pdf
+IntroToMediaQueries-main.zip								recapitulatif-3.pdf
+JavaScript_101.pdf									recapitulatif-4.pdf
+JavaScript_101_part1.pdf								recapitulatif.pdf
+LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO-2.pdf	~$llabus_programmation_approfondie (1).docx
+LYON_PART_DIEU-ANGERS_ST_LAUD_29-09-22_CHEMINEAU_EMMA_RWEVKB_5CwYWBCEmePQHO8pM7EO-3.pdf
+emmachemineau@MacBook-Air-de-Emma Downloads % clear                             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+emmachemineau@MacBook-Air-de-Emma Downloads % cd ..
+emmachemineau@MacBook-Air-de-Emma ~ % ls
+Applications		Documents		Library			Music			Pictures		covers
+Desktop			Downloads		Movies			OneDrive - Groupe ESSCA	Public
+emmachemineau@MacBook-Air-de-Emma ~ % mv covers ./Desktop/ 
+emmachemineau@MacBook-Air-de-Emma ~ % cd Desktop 
+emmachemineau@MacBook-Air-de-Emma Desktop % ls
+CV 2023.pdf					Capture d’écran 2022-10-21 à 10.29.59.png	Rendu						covers
+Capture d’écran 2022-10-16 à 18.10.03.png	IntroToMediaQueries-main			Visual Studio Code.app				piscine
+emmachemineau@MacBook-Air-de-Emma Desktop % mv covers ./piscine 
+emmachemineau@MacBook-Air-de-Emma Desktop % ls
+CV 2023.pdf					Capture d’écran 2022-10-21 à 10.29.59.png	Rendu						piscine
+Capture d’écran 2022-10-16 à 18.10.03.png	IntroToMediaQueries-main			Visual Studio Code.app
+emmachemineau@MacBook-Air-de-Emma Desktop % cd piscine 
+emmachemineau@MacBook-Air-de-Emma piscine % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+emmachemineau@MacBook-Air-de-Emma piscine % ls
+Piscine00	covers		piscine_shell
+emmachemineau@MacBook-Air-de-Emma piscine % mv covers ./piscine_shell 
+emmachemineau@MacBook-Air-de-Emma piscine % cd piscine_shell 
+emmachemineau@MacBook-Air-de-Emma piscine_shell % ls
+covers				e_chemineau_piscine_shell2
+emmachemineau@MacBook-Air-de-Emma piscine_shell % mv covers ./e_chemineau_piscine_shell2/ex00 
+emmachemineau@MacBook-Air-de-Emma piscine_shell % cd e_chemineau_piscine_shell2/ex00 
+emmachemineau@MacBook-Air-de-Emma ex00 % ls
+covers
+emmachemineau@MacBook-Air-de-Emma ex00 % ls                                  
+covers
+emmachemineau@MacBook-Air-de-Emma ex00 % ls covers 
+dc_jetgrindradio_10.jpg				gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			ps4_fifa14.jpg					xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_supermariosunshine.jpg			x360_callfoduty3.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty2.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.unchartedthelostlegacy.jpg	x360_callofduty4.jpg				xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_needforspeedunderground2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg
+gb_pokemonyellow_au.jpg				playstation_5.farcry6.jpg			xbox_deadoralive3.jpg
+emmachemineau@MacBook-Air-de-Emma ex00 % mdkir constructeur                     
+zsh: command not found: mdkir
+emmachemineau@MacBook-Air-de-Emma ex00 % mkdir constructeur
+emmachemineau@MacBook-Air-de-Emma ex00 % cd constructeur
+emmachemineau@MacBook-Air-de-Emma constructeur % mkdir sony
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..                   
+emmachemineau@MacBook-Air-de-Emma ex00 % cd cover
+cd: no such file or directory: cover
+emmachemineau@MacBook-Air-de-Emma ex00 % clear 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+emmachemineau@MacBook-Air-de-Emma ex00 % cd covers
+emmachemineau@MacBook-Air-de-Emma covers % mkdir constructeur
+emmachemineau@MacBook-Air-de-Emma covers % cd constructeur
+emmachemineau@MacBook-Air-de-Emma constructeur % mkdir sony nintendo microsoft sega
+emmachemineau@MacBook-Air-de-Emma constructeur % cd sony
+emmachemineau@MacBook-Air-de-Emma sony % mkdir consoles consoles portables
+mkdir: consoles: File exists
+emmachemineau@MacBook-Air-de-Emma sony % cd consoles
+emmachemineau@MacBook-Air-de-Emma consoles % mkdir ps4 ps5
+emmachemineau@MacBook-Air-de-Emma consoles % cd ps4
+emmachemineau@MacBook-Air-de-Emma ps4 % cd ps4_fifa14
+cd: no such file or directory: ps4_fifa14
+emmachemineau@MacBook-Air-de-Emma ps4 % cd .. 
+emmachemineau@MacBook-Air-de-Emma consoles % cd ..
+emmachemineau@MacBook-Air-de-Emma sony % cd ..
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..
+emmachemineau@MacBook-Air-de-Emma covers % cd ps4_fifa14
+cd: no such file or directory: ps4_fifa14
+emmachemineau@MacBook-Air-de-Emma covers % cd ..
+emmachemineau@MacBook-Air-de-Emma ex00 % cd cover
+cd: no such file or directory: cover
+emmachemineau@MacBook-Air-de-Emma ex00 % cd covers
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur					gb_pokemonyellow_au.jpg				playstation_5.farcry6.jpg			xbox_deadoralive3.jpg
+dc_jetgrindradio_10.jpg				gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			ps4_fifa14.jpg					xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_supermariosunshine.jpg			x360_callfoduty3.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty2.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.unchartedthelostlegacy.jpg	x360_callofduty4.jpg				xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_needforspeedunderground2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg
+emmachemineau@MacBook-Air-de-Emma covers % cd ps4
+cd: no such file or directory: ps4
+emmachemineau@MacBook-Air-de-Emma covers % cd ps4_fifa14.jpg
+cd: not a directory: ps4_fifa14.jpg
+emmachemineau@MacBook-Air-de-Emma covers % pwd        
+/Users/emmachemineau/Desktop/piscine/piscine_shell/e_chemineau_piscine_shell2/ex00/covers
+emmachemineau@MacBook-Air-de-Emma covers % nv ps4_fifa14/ ps
+zsh: command not found: nv
+emmachemineau@MacBook-Air-de-Emma covers % ls  
+constructeur					gb_pokemonyellow_au.jpg				playstation_5.farcry6.jpg			xbox_deadoralive3.jpg
+dc_jetgrindradio_10.jpg				gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			ps4_fifa14.jpg					xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_supermariosunshine.jpg			x360_callfoduty3.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty2.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.unchartedthelostlegacy.jpg	x360_callofduty4.jpg				xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_needforspeedunderground2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv ps4_fifa14.jpg ./constructeur/sony/consoles/ps4
+emmachemineau@MacBook-Air-de-Emma covers % mv playstation_4.unchartedthelostlegacy.jpg ./constructeur/sony/consoles/ps4
+emmachemineau@MacBook-Air-de-Emma covers % mv playstation_5.farcry6.jpg ./constructeurs/sony/consoles/ps5
+mv: rename playstation_5.farcry6.jpg to ./constructeurs/sony/consoles/ps5: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % mv playstation_5.farcry6.jpg ./constructeur/sony/consoles/ps5
+emmachemineau@MacBook-Air-de-Emma covers % cd constructeur
+emmachemineau@MacBook-Air-de-Emma constructeur % cd nintendo
+emmachemineau@MacBook-Air-de-Emma nintendo % mkdir gamecube
+emmachemineau@MacBook-Air-de-Emma nintendo % clear
+
+
+
+
+
+
+
+
+emmachemineau@MacBook-Air-de-Emma nintendo % mkdir consoles
+emmachemineau@MacBook-Air-de-Emma nintendo % mkdir consoles portables
+mkdir: consoles: File exists
+emmachemineau@MacBook-Air-de-Emma nintendo % cd consoles
+emmachemineau@MacBook-Air-de-Emma consoles % mkdir gamecube
+emmachemineau@MacBook-Air-de-Emma consoles % cd ..
+emmachemineau@MacBook-Air-de-Emma nintendo % cd portables
+emmachemineau@MacBook-Air-de-Emma portables % cd ..
+emmachemineau@MacBook-Air-de-Emma nintendo % cd ..   
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..
+emmachemineau@MacBook-Air-de-Emma covers % ls 
+constructeur					gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+dc_jetgrindradio_10.jpg				gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				gc_supermariosunshine.jpg			x360_callofduty4.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv gc_supermariosunshine.jpg ./constructeur/nintendo/consoles/gamecube
+emmachemineau@MacBook-Air-de-Emma covers % cd constructeur                                           
+emmachemineau@MacBook-Air-de-Emma constructeur % cd nintendo
+emmachemineau@MacBook-Air-de-Emma nintendo % cd portables
+emmachemineau@MacBook-Air-de-Emma portables % mkdir gameboy
+emmachemineau@MacBook-Air-de-Emma portables % cd .. .. 
+cd: string not in pwd: ..
+emmachemineau@MacBook-Air-de-Emma portables % cd..
+zsh: command not found: cd..
+emmachemineau@MacBook-Air-de-Emma portables % cd ..
+emmachemineau@MacBook-Air-de-Emma nintendo % cd ..
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur					gb_pokemongreen_3.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+dc_jetgrindradio_10.jpg				gb_pokemonyellow_au.jpg				x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			x360_callofduty4.jpg				xbox_halo_2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gameboy.pokmonred.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+gb_pokemonblue_eu.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv gb_pokemonblue_eu.jpg ./constructeur/nintendo/portables/gameboy
+emmachemineau@MacBook-Air-de-Emma covers % mv gameboy.pokmonred.jpg ./constructeur/nintendo/portables/gameboy
+emmachemineau@MacBook-Air-de-Emma covers % cd .. 
+emmachemineau@MacBook-Air-de-Emma ex00 % cd covers
+emmachemineau@MacBook-Air-de-Emma covers % cd constructeur 
+emmachemineau@MacBook-Air-de-Emma constructeur % cd microsoft
+emmachemineau@MacBook-Air-de-Emma microsoft % mkdir consoles
+emmachemineau@MacBook-Air-de-Emma microsoft % cd consoles
+emmachemineau@MacBook-Air-de-Emma consoles % mkdir xbox
+emmachemineau@MacBook-Air-de-Emma consoles % mkdir xbox360
+emmachemineau@MacBook-Air-de-Emma consoles % cd ..
+emmachemineau@MacBook-Air-de-Emma microsoft % cd ..
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur					gbc_pokemongold.jpg				x360_callofduty2.jpg				xbox_halo2.jpg
+dc_jetgrindradio_10.jpg				gc_mariokartdoubledash.jpg			x360_callofduty4.jpg				xbox_halo_2.jpg
+dc_jetsetradio_eu_front.jpg			playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+dc_shenmue_eu.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+dc_shenmueii_5.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+gb_pokemongreen_3.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+gb_pokemonyellow_au.jpg				x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv xbox_deadtorights.jpg ./constructeur/microsoft/consoles/xbox
+emmachemineau@MacBook-Air-de-Emma covers % mv xbox_halo_2.jpg ./constructeur/microsoft/consoles/xbox
+emmachemineau@MacBook-Air-de-Emma covers % mv x360_callofduty4.jpg ./constructeur/microsoft/consoles/xbox360
+emmachemineau@MacBook-Air-de-Emma covers % mv x360_callfoduty3.jpg ./constructeur/microsoft/consoles/xbox360
+emmachemineau@MacBook-Air-de-Emma covers % cd ..
+emmachemineau@MacBook-Air-de-Emma ex00 % cd ..
+emmachemineau@MacBook-Air-de-Emma e_chemineau_piscine_shell2 % cd ex00
+emmachemineau@MacBook-Air-de-Emma ex00 % cd covers
+emmachemineau@MacBook-Air-de-Emma covers % cd constructeur
+emmachemineau@MacBook-Air-de-Emma constructeur % cd saga
+cd: no such file or directory: saga
+emmachemineau@MacBook-Air-de-Emma constructeur % cd sega
+emmachemineau@MacBook-Air-de-Emma sega % mkdir consoles
+emmachemineau@MacBook-Air-de-Emma sega % cd consoles
+emmachemineau@MacBook-Air-de-Emma consoles % mkdir dreamcast
+emmachemineau@MacBook-Air-de-Emma consoles % cd ..
+emmachemineau@MacBook-Air-de-Emma sega % cd ..
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..
+emmachemineau@MacBook-Air-de-Emma covers % ls 
+constructeur					gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg		xbox_halo2.jpg
+dc_jetgrindradio_10.jpg				gbc_pokemongold.jpg				x360_callofduty2.jpg				xbox_jetsetradiofuture_2.jpg
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			x360_callofdutyblackopsii.jpg			xbox_needforspeedunderground2.jpg
+dc_shenmue_eu.jpg				playstation_4.assassinscreedodyssey.jpg		xbox_360.fableiii.jpg
+dc_shenmueii_5.jpg				playstation_4.watchdogs2.jpg			xbox_deadoralive3.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_defjamfightforny.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetsetradio_eu_front.jpg ./constructeur/sega/dreamcast
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetsetradio_eu_front.jpg ./constructeur/sega/dreamcast
+mv: rename dc_jetsetradio_eu_front.jpg to ./constructeur/sega/dreamcast: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_shenmue_eu.jpg ./constructeur/consoles/dreamcast
+mv: rename dc_shenmue_eu.jpg to ./constructeur/consoles/dreamcast: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_shenmue_eu.jpg ./constructeur/sega/consoles/dreamcast
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetsetradio_eu_front.jpg ./constructeur/sega/consoles/dreamcast
+mv: rename dc_jetsetradio_eu_front.jpg to ./constructeur/sega/consoles/dreamcast/dc_jetsetradio_eu_front.jpg: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetsetradio_eu_front.jpg ./constructeur/sega/consoles/dreamcast
+mv: rename dc_jetsetradio_eu_front.jpg to ./constructeur/sega/consoles/dreamcast/dc_jetsetradio_eu_front.jpg: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetsetradio_eu_front.jpg ./constructeur/sega/consoles/dreamcast
+mv: rename dc_jetsetradio_eu_front.jpg to ./constructeur/sega/consoles/dreamcast/dc_jetsetradio_eu_front.jpg: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % clear 
+
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur					gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_defjamfightforny.jpg
+dc_jetgrindradio_10.jpg				gc_mariokartdoubledash.jpg			x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gb_pokemongreen_3.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+gb_pokemonyellow_au.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+emmachemineau@MacBook-Air-de-Emma covers % ls 
+constructeur					gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_defjamfightforny.jpg
+dc_jetgrindradio_10.jpg				gc_mariokartdoubledash.jpg			x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gb_pokemongreen_3.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+gb_pokemonyellow_au.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetgrindradio_10.jpg ./constructeur/sega/consoles/dreamcast
+emmachemineau@MacBook-Air-de-Emma covers % mv playstation_4.watchdogs2.jpg playstation_4.assassinscreedodyssey.jpg ./constructeur/sony/consoles/ps4
+emmachemineau@MacBook-Air-de-Emma covers % mv   playstation_5.assassinscreedvalhalla.jpg playstation_5.residentevilvillage_.jpg ./constructeur/sony/consoles/ps5
+emmachemineau@MacBook-Air-de-Emma covers % mv x360_callofduty2.jpg x360_callofdutyblackopsii.jpg xbox_360.fableiii.jpg ./constructeur/microsoft/consoles/xbox360
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetgrindradio_10.jpg dc_shenmueii_5.jpg ./constructeur/sega/consoles/dreamcast
+mv: dc_jetgrindradio_10.jpg: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur				gb_pokemonyellow_au.jpg			gc_mariokartdoubledash.jpg		xbox_defjamfightforny.jpg		xbox_jetsetradiofuture_2.jpg
+gb_pokemongreen_3.jpg			gbc_pokemongold.jpg			xbox_deadoralive3.jpg			xbox_halo2.jpg				xbox_needforspeedunderground2.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv xbox_deadoralive3.jpg xbox_defjamfightforny.jpg xbox_halo2.jpg xbox_jetsetradiofuture_2.jpg xbox_needforspeedunderground2.jpg ./constructeur/microsoft/consoles/xbox
+emmachemineau@MacBook-Air-de-Emma covers % mv gb_pokemongreen_3.jpg gbc_pokemongold.jpg ./constructeur/nintendo/portables/gameboy
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur			gb_pokemonyellow_au.jpg		gc_mariokartdoubledash.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv gb_pokemonyellow_au.jpg gc_mariokartdoubledash.jpg ./constructeur/nintendo/portables/gameboy
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur
+emmachemineau@MacBook-Air-de-Emma covers % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
