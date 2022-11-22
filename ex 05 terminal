@@ -1,0 +1,19 @@
+Last login: Tue Nov 22 14:55:54 on ttys000
+emmachemineau@MacBook-Air-de-Emma ~ % ls
+Applications		Music			git_commit.sh.save
+Desktop			OneDrive - Groupe ESSCA	git_commit.sh.save.save
+Documents		Pictures		histoty.txt
+Downloads		Public			print_groups.sh.save
+Library			bonjour.sh
+Movies			git_commit.sh
+emmachemineau@MacBook-Air-de-Emma ~ % cd desktop
+emmachemineau@MacBook-Air-de-Emma desktop % mkdir data
+emmachemineau@MacBook-Air-de-Emma desktop % cd data
+emmachemineau@MacBook-Air-de-Emma data % grep -E '2019.*Lyon.*PHP' data.csv > php_lyon_2019.csv
+emmachemineau@MacBook-Air-de-Emma data % grep -E 'Lyon.*JavaScript|Budapest.*JavaScript' data.csv > javascript_budapest_lyon.csv
+emmachemineau@MacBook-Air-de-Emma data % grep David data.csv > david.csv
+emmachemineau@MacBook-Air-de-Emma data % grep Angers data.csv | cut -d ',' -f4 > mail_angers.csv
+emmachemineau@MacBook-Air-de-Emma data % grep -E 'Bordeaux|Shanghai' data.csv | cut -d ',' -f4 > mails_bordeaux_shanghai.csv
+emmachemineau@MacBook-Air-de-Emma data % grep -c -E '2018.*Python' data.csv > python_2018.csv
+emmachemineau@MacBook-Air-de-Emma data % 
+
