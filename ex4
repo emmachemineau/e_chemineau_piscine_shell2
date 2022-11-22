@@ -1,0 +1,3 @@
+
+
+groups |tr [:space:] ','
